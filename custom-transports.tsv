@@ -1285,14 +1285,17 @@
 3142 3513 0	3137 3516 0	Climb-into Underwall tunnel 16530	21 Agility					3	
 3137 3516 0	3142 3513 0	Climb-into Underwall tunnel 16529	21 Agility					3	
 # Forthos Dungeon
-1702 3575 0  1830 9973 0  Climb-down  Ladder  34862            1
-1830 9973 0 1702 3575 0  Climb-up  Ladder  34863            1
+1702 3575 0	1830 9973 0	Climb-down	Ladder	34862						1
+1830 9973 0	1702 3575 0	Climb-up	Ladder	34863						1
 # Sarachnis
-1833 9944 0  1833 9943 0  Slash  Web  733            2
-1833 9943 0  1833 9944 0  Slash  Web  733            2
-1841 9934 0  1841 9933 0  Slash  Web  733            2
-1841 9933 0  1841 9934 0  Slash  Web  733            2
-1847 9920 0  1847 9919 0  Slash  Web  34898            2
+1833 9944 0	1833 9943 0	Slash	Web	733		KNIFE=1				2
+1833 9943 0	1833 9944 0	Slash	Web	733		KNIFE=1				2
+1841 9934 0	1841 9933 0	Slash	Web	733		KNIFE=1				2
+1841 9933 0	1841 9934 0	Slash	Web	733		KNIFE=1				2
+1847 9920 0	1847 9919 0	Slash	Web	34898		KNIFE=1				2
+1847 9919 0	1847 9920 0	Slash	Web	34898		KNIFE=1				2
+1841 9912 0	1841 9911 0	Quick-enter	Thick Web	34858		KNIFE=1				3
+1841 9911 0	1841 9912 0	Quick-enter	Thick Web	34858		KNIFE=1				3
 1847 9919 0  1847 9920 0  Slash  Web  34898            2
 1841 9912 0  1841 9911 0  Quick-enter  Thick Web  34858            3
 1841 9911 0  1841 9912 0  Quick-enter  Thick Web  34858            3
